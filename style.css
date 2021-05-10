@@ -1,0 +1,38 @@
+.header{
+
+    background-color: #e69900;
+    border:dotted;
+}
+.about{
+    background-color:#740001;
+    border:dotted;
+
+}
+.movie{
+    display:flex;
+    flex-wrap: wrap;
+  justify-content:space-between;
+    background-color:#1A472A;
+    
+    border:dotted;
+}
+.char{
+    background-color:#FFDB00;
+  
+    border:dotted;
+}
+.footer{
+    display:flex;
+    justify-content:flex-end;
+    background-color: #222F5B ;       ;
+    border:dotted;
+}
+.lin{
+    background-color: lightskyblue;
+    border:dotted; 
+}
+.topic{
+    background-color:#1A472A;
+    
+    border:dotted; 
+}
